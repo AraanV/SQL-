@@ -5,4 +5,8 @@ This project is a sample student management database that stores university stud
 * Write queries like JOINS, Wildcards, Nested Queries, UNION, WHERE, ORDER BY, and TRIGGERS.
 * Use SELECT statement to view the created tables
 
-The tables were created automatically using the Microsoft SQL Server GUI. Primary and foreign keys were set using this feature. 
+The tables were created automatically using the Microsoft SQL Server GUI. Primary and foreign keys were set using this feature. Attached is the sample data: 
+
+![SQL Project Data Screenshot of Data](https://github.com/AraanV/SQL-/assets/158225035/cd3ddeed-efc1-4596-b025-6ef45a0a85f3)
+
+
